@@ -1,0 +1,9 @@
+{
+    "name": "slurp", 
+    "license": "MPL 1.1/GPL 2.0/LGPL 2.1", 
+    "author": "Anant Narayanan <anant@kix.in>", 
+    "version": "0.1", 
+    "fullName": "slurp", 
+    "id": "jid0-BvunraHYyZredOZ8ABR4tQmVOts", 
+    "description": "Import del.icio.us bookmarks into Firefox 4"
+}
