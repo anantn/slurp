@@ -1,15 +1,17 @@
 Slurp is a Firefox extension built using the Add-on SDK that lets you
-import your del.icio.us bookmarks into Firefox 4.
+import your del.icio.us bookmarks into Firefox 4 (Go get the latest beta:
+http://firefox.com/beta/).
 
-No restart required -- just install the XPI and head to http://del.icio.us/ 
-you will be prompted with instructions.
+No restart required - just install the XPI and head to http://del.icio.us/
+- you will be prompted with instructions.
 
-You can already export your bookmarks as an HTML file on del.icio.us, but
+You can already export your bookmarks as a HTML file on del.icio.us, but
 importing that directly will not preserve your tags and notes. Slurp makes 
 sure you don't lose data.
 
 Once your bookmarks have been imported to Firefox, you can securely
 synchronize them and take your data wherever you go; thanks to Firefox Sync
-(http://firefox.com/sync/)
+(http://firefox.com/sync/). You'll find them in the 'del.icio.us' directory
+in your bookmarks menu.
 
 Give it a sip.
